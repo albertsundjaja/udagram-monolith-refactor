@@ -50,6 +50,7 @@ https://github.com/albertsundjaja/udagram-reverse-proxy
 ##### HPA
 
 ![hpa](images/kubernetes-hpa.PNG)
+![hpa](images/kubernetes-hpa2.PNG)
 
 ##### Logs
 
